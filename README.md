@@ -1,5 +1,5 @@
 # gdm-product-manager
-Sample Vue.js product manager app
+Sample Vue.js product manager app: https://ryancp.github.io/gdm-product-manager
 
 ## Project setup
 ```
